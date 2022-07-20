@@ -1,5 +1,5 @@
 # unit_commitment_yalmip
-my first code on github
+- my first code on github
 
 - 复现了YALMIP官网上的机组组合([Unit Commitment](https://yalmip.github.io/example/unitcommitment/))部分,修改了部分代码使代码的可读性更强.
 
