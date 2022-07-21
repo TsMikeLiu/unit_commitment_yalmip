@@ -7,5 +7,5 @@
 
 - 修改了原代码中的change罚项和功率平衡约束(由供大于求改为等于)
 
-- another try
+- add some changes
 
